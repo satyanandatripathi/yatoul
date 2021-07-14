@@ -1,3 +1,4 @@
+ 
 name: English
 natively: English
 
@@ -9,8 +10,8 @@ authors:
   - avish-kumar1
 
 # commons
-com_1: "`Processing...`"
-com_2: "`Searching...`"
+com_1: "`𝕻𝖗𝖔𝖈𝖊𝖘𝖘𝖎𝖓𝖌...`"
+com_2: "`𝕾𝖊𝖆𝖗𝖈𝖍𝖎𝖓𝖌...`"
 # help
 help_1: "`{}` is not a valid plugin!"
 help_2: "The bot did not respond to the inline query.\nConsider using `{}restart`"
@@ -23,16 +24,16 @@ autopic_3: "Got a Collection `{}` related to your search !\nStarting Autopic !"
 
 # inline
 inline_1: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
-**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\n
-Pʟᴜɢɪɴs ~ {}**"
+**𝕳𝖊𝖑𝖕 𝖒𝖊𝖓𝖚 𝖔𝖋 𝖄𝖆𝖙𝖔'𝖘 𝖇𝖔𝖙 \n\n
+𝕻𝖑𝖚𝖌𝖎𝖓𝖘 ~ {}**"
 inline_2: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
-**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\n
-Aᴅᴅᴏɴs ~ {}**"
-inline_3: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
-**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\n
-Aᴅᴅᴏɴs ~ {}\n\n
-Dᴏ **`.setredis ADDONS True`** ᴀɴᴅ ʀᴇsᴛᴀʀᴛ ᴛᴏ ɢᴇᴛ ᴀᴅᴅᴏɴs.**"
-inline_4: "** Bᴏᴛ Oғ {}\n\nMᴀɪɴ Mᴇɴᴜ\n\nPʟᴜɢɪɴs ~ {}\nAᴅᴅᴏɴs ~ {}\nTᴏᴛᴀʟ Cᴏᴍᴍᴀɴᴅs ~ {}**"
+**𝕳𝖊𝖑𝖕 𝖒𝖊𝖓𝖚 𝖔𝖋 𝖄𝖆𝖙𝖔 𝖇𝖔𝖙 .\n\n
+𝖆𝖉𝖉𝖔𝖓𝖘 ~ {}**"
+inline_3: "[Uʟᴛʀᴏɪᴅᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
+**𝕳𝖊𝖑𝖕 𝖒𝖊𝖓𝖚 𝖔𝖋 𝖄𝖆𝖙𝖔'𝖘 𝖇𝖔𝖙 .\n\n
+𝖆𝖉𝖉𝖔𝖓𝖘 ~ {}\n\n
+Dᴏ **`.setredis ADDONS True`** 𝕬𝖓𝖉 𝖗𝖊𝖘𝖙𝖆𝖗𝖙 𝖙𝖔 𝖌𝖊𝖙 𝖆𝖉𝖉𝖔𝖓𝖘.**"
+inline_4: "**𝕸𝖔𝖉𝖎𝖋𝖎𝖊𝖉 𝖀𝖑𝖙𝖗𝖔𝖎𝖉 𝖔𝖋 {}\n\n𝕸𝖆𝖎𝖓 𝖒𝖊𝖓𝖚\n\n𝕻𝖑𝖚𝖌𝖎𝖓𝖘 ~ {}\n𝖆𝖉𝖉𝖔𝖓𝖘 ~ {}\n𝕿𝖔𝖙𝖆𝖑 𝕬𝖛𝖆𝖎𝖑𝖆𝖇𝖑𝖊 𝖈𝖔𝖒𝖒𝖆𝖓𝖉𝖘 ~ {}**"
 inline_5: "**Mᴇɴᴜ Hᴀs Bᴇᴇɴ Cʟᴏsᴇᴅ**"
 
 # tagnotif
@@ -61,19 +62,17 @@ afk_7: "Currently AFK with reason {}"
 afk_8: "Currently AFK."
 
 # bot
-alive_1: "**The Ultroid Userbot...**\n\n
+alive_1: "𝖄𝖆𝖙𝖔'𝖘 𝖀𝖑𝖙𝖗𝖔𝖎𝖉\n\n
 **{}**\n\n
-┏━━━━━━━━━━━━━━━━━━━━━\n
-┣ **Owner** - `{}`\n
-┣ **Version** - `{}`\n
-┣ **Py-Ultroid** - `{}`\n
-┣ **UpTime** - `{}`\n
-┣ **Python** - `{}`\n
-┣ **Telethon** - `{}`\n
-┣ **Branch** - `{}`\n
-┗━━━━━━━━━━━━━━━━━━━━━"
+»» **𝕺𝖜𝖓𝖊𝖗** - `{}` ««\n
+»» **𝖛𝖊𝖗𝖘𝖎𝖔𝖓** - `{}` ««\n
+»» **𝕻𝖞-𝖀𝖑𝖙𝖗𝖔𝖎𝖉** - `{}` ««\n
+»» **𝖀𝖕𝕿𝖎𝖒𝖊** - `{}` ««\n
+»» **𝕻𝖞𝖙𝖍𝖔𝖓** - `{}` ««\n
+»» **𝕿𝖊𝖑𝖊𝖙𝖍𝖔𝖓** - `{}` ««\n
+»» [𝕬𝖑𝖑 𝕸𝖎𝖌𝖍𝖙𝖞 𝖕𝖚𝖘𝖍](http://t.me/deadlinedorker) ««"
 log: "**Heroku** Ultroid Logs.\nPasted [here]({}) too!"
-ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`"
+ping: "P̶̨̿̈̕o̵̢̝̫̺͔͔̔n̸̛̺̳̣̖̱̋̑̈̽͋̚̚͘͝ĝ̸̩̺̰͎͔̞̔͊͛̄!̷̷̷̷̞͓͚̖̪̭̞͓͚̖̪̭̞͓͚̖̪̭̞͓͚̖̪̭͗̓͑̃̾̂͋̈̓͗̓͑̃̾̂͋̈̓͗̓͑̃̾̂͋̈̓͗̓͑̃̾̂͋̈̓̕̕̕̕ͅͅͅͅ \n𝖄𝖆𝖙𝖔'𝖘 𝖇𝖔𝖙 \n\n𝕻𝖔𝖓𝖌 »»» `{}ms`\n𝔘𝔭𝔱𝔦𝔪𝔢 ««« `{}`"
 usage: "**⚙️ Dyno Usage ⚙️**:\n\n
 -> **Dyno usage for** `{}`:\n
   •  **{}h**  **{}m** |** `[{}%]`\n
@@ -172,7 +171,7 @@ gdrive_7: "**Successfully Uploaded File on G-Drive :**\n\n[{}]({})"
 # pmpermit
 pmperm_1: "Please wait for me to respond or you will be blocked and reported as spam!!"
 pmperm_2: "You were spamming my Master's PM, which I didn't like.\nYou have been BLOCKED and reported as SPAM, until further notice."
-pmperm_3: "Reply to someone's message or try this command in private."
+pmperm_3: "Reply to someone's msg or try this command in private."
 
 # updater
 upd_1: "`Checking for updates, please wait....`"
